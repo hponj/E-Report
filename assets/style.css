@@ -37,6 +37,12 @@ footer .footer-links:hover{
     opacity: 100%;
 }
 
+/* Aos */
+
+.hero .col h1 {
+     --animate-delay: 0.5s;
+}
+
 @media (max-width: 1024px) {
     #Hero img {
         width: 400px;
